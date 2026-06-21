@@ -1,23 +1,5 @@
-# Jupyter Notebook
+.virtual_documents/
 .ipynb_checkpoints/
-
-# VS Code (optional)
-.vscode/
-
-# Python cache
 __pycache__/
 *.py[cod]
-
-# Virtual environments
-.venv/
-venv/
-env/
-
-# Anaconda environments (if created inside the project)
-.env/
-
-# macOS
-.DS_Store
-
-# Windows
-Thumbs.db
+.vscode/
